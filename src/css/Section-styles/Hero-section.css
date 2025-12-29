@@ -98,16 +98,15 @@
 }
 .inactive-btn {
   background: #ccc16e;
-opacity: 0.3;
+  opacity: 0.3;
 }
 
-  .hero-content {
-    max-width: 513px;
-    margin: 0;
-  }
-  .hero-button {
-    width: 217px;
-  }
+.hero-content {
+  max-width: 513px;
+  margin: 0;
+}
+.hero-button {
+  width: 217px;
 }
 
 @media screen and (min-width: 1158px) {
